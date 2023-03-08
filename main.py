@@ -368,6 +368,33 @@
 #
 # print(calculateScore(3,4,5,6,7,8))
 
+
+# /////////////////////////////////////////////////////////////////////////////////////////////
+
+
+#   Class-Work TASK
+#
+# def getEvenNumbers(*numbers):
+#
+#     storage = ""
+#     for number in numbers:
+#         if number % 2 == 0:
+#             storage += str(f"{number}, ")
+#     return storage
+#
+# print(getEvenNumbers(1,2,3,4,5,6,7))
+#
+# def getOutEvenNumbers(*numbers):
+#
+#     storage = ""
+#     for number in numbers:
+#         if number % 2 == 1:
+#             storage += str(f"{number}, ")
+#     return storage
+#
+# print(getOutEvenNumbers(1,2,3,4,5,6,7))
+
+
 # ##################################################
 # ##################################################
 
